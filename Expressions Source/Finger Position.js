@@ -21,6 +21,7 @@ Keyframes <= 4f apart indicate an extended drag event, handled differently.
 Release History:
 
 v1.0 - 2015-05-18 - Development started
+v1.1 - 2020-04-19 - Open sourced under OmniSourceLicense
 
 */
 
