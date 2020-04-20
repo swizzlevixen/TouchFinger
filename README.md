@@ -1,4 +1,4 @@
-After Effects expressions for easy animation of touch highlights for iOS screencasts.
+After Effects expressions for easy animation of touch highlights for iOS/Android screencasts.
 
 ![Demo of TouchFinger animation on an iPhone 11 Pro](renders/TouchFinger_Demo.gif)
 
