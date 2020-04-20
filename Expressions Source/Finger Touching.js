@@ -19,16 +19,16 @@ Position keyframes <= 4f apart indicate an extended drag event,
 and the finger should remain touching during this whole time
 
 This expression should be applied to the Touching checkbox effect on the
-SimFinger pre-comp layer inside EDIT_FINGER comp.
+TouchFinger pre-comp layer inside EDIT_FINGER comp.
 
 
 Release History:
 
+v1.0 - 2015-05-21 - Development started.
 v1.1 - 2016-02-24 - Added Gesture (no touch) movements, signified by a
        keyframe on the Touching checkbox effect, at the same time as a
        position keyframe.
-
-v1.0 - 2015-05-21 - Development started.
+v1.2 - 2020-04-19 - Open sourced under OmniSourceLicense
 
 */
 
