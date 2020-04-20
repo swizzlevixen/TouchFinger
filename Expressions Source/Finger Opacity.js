@@ -22,6 +22,7 @@ for > maxIdle. Hopefully this represents some keyboard action.
 Release History:
 
 v1.0 - 2015-05-21 - Development started
+v1.1 - 2020-04-19 - Open sourced under OmniSourceLicense
 
 */
 
